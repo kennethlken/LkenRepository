@@ -1,2 +1,3 @@
 # LkenRepository
-This is lkenRepository.
+This is lkenRepository. 
+Readme edit!
